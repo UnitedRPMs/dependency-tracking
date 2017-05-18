@@ -1,2 +1,3 @@
 # dependency-tracking
-a continuous integration service
+
+Tracking package dependency
